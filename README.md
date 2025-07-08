@@ -43,7 +43,7 @@
 ![Final Inventory](ScreenShots/Test6.png)
 *Final state of the inventory after all operations*
 
-## 🧪 Test Coverage
+##  Test Coverage
 
 The application includes a comprehensive test suite (`QuantumBookstoreFullTest.java`) that covers:
 
@@ -54,7 +54,7 @@ The application includes a comprehensive test suite (`QuantumBookstoreFullTest.j
 5. **Maintenance Operations**: Removing outdated books
 6. **Final Verification**: Confirming final inventory state
 
-## 🔧 Code Structure
+## Code Structure
 
 ```
 Task2/
@@ -74,17 +74,3 @@ Task2/
 ```
 
 
-## 📋 Sample Output
-
-```
-Quantum book store: Welcome to the Quantum Bookstore Demo!
-==================================================
-Quantum book store: Starting comprehensive test suite
-============================================================
-
-Quantum book store: TEST 1 - Adding Books
-----------------------------------------
-Quantum book store: Added book - PaperBook{ISBN='PB001', Title='Java Programming', Author='John Smith', Year=2020, Price=$45.99, Stock=10}
-Quantum book store: Added book - PaperBook{ISBN='PB002', Title='Data Structures', Author='Jane Doe', Year=2019, Price=$39.99, Stock=5}
-...
-```
